@@ -6,7 +6,7 @@
   <name>Oswego Concurrent</name>
   <packaging>bundle</packaging>
 
-  <description>OSGi Version of Oswego Concurrent</description>
+  <description>OSGi Version of Oswego Concurrent jar library</description>
   <url>http://maven.lucee.org/oswego-concurrent/</url>
 
   <!-- same license as the original jar -->
